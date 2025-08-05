@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.pkl
+*.mp3
+models/
+data/final_cleaned_data.csv
+.env
+
