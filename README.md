@@ -41,6 +41,11 @@ Satıcılar bu sayede ürün açıklamalarını güncelleyebilir, paketleme soru
 
 ---
 
+## Veri Seti
+Projedeki örnek veriler Amazon Fine Food Reviews veri setinden türetilmiştir. Gerçek uygulamada daha büyük ve özel veri setleriyle uyumlu şekilde çalışabilir.
+
+---
+
 ## Proje Yapısı
 
 ```bash
@@ -61,9 +66,5 @@ ecommerce_smart_seller_assistant
     └── ecommerce_smart_seller_assistant.ipynb  # Veri analizi defteri
 
 
-## Veri Seti
-Projedeki örnek veriler Amazon Fine Food Reviews veri setinden türetilmiştir. Gerçek uygulamada daha büyük ve özel veri setleriyle uyumlu şekilde çalışabilir.
-
-## NOT
-Bu proje, BTK Hackathon 2025 kapsamında geliştirilmiştir.
+NOT : Bu proje, BTK Hackathon 2025 kapsamında geliştirilmiştir.
 
