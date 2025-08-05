@@ -42,21 +42,24 @@ Satıcılar bu sayede ürün açıklamalarını güncelleyebilir, paketleme soru
 ---
 
 ## Proje Yapısı
+
+```bash
 ecommerce_smart_seller_assistant
-├── app.py # Streamlit arayüzü
-├── preprocessing.py # Veri ön işleme ve tahmin
-├── llm_gemini.py # Gemini API entegrasyonu
-├── tts_elevenlabs.py # ElevenLabs sesli çıktı modülü
-├── requirements.txt # Gerekli Python kütüphaneleri
-├── .gitignore # Dosya hariç tutma kuralları
+├── app.py                         # Streamlit arayüzü
+├── preprocessing.py              # Veri ön işleme ve tahmin
+├── llm_gemini.py                 # Gemini API entegrasyonu
+├── tts_elevenlabs.py             # ElevenLabs sesli çıktı modülü
+├── requirements.txt              # Gerekli Python kütüphaneleri
+├── .gitignore                    # Dosya hariç tutma kuralları
 ├── data/
-│ └── final_cleaned_data_sample.csv # Örnek yorum verisi
+│   └── final_cleaned_data_sample.csv    # Örnek yorum verisi
 ├── models/
-│ ├── lightgbm_model_v2.pkl # Eğitimli ML modeli
-│ ├── tfidf_vectorizer.pkl # TF-IDF vektörleştirici
-│ └── label_encoder.pkl # Label encoder
+│   ├── lightgbm_model_v2.pkl     # Eğitimli ML modeli
+│   ├── tfidf_vectorizer.pkl      # TF-IDF vektörleştirici
+│   └── label_encoder.pkl         # Label encoder
 └── colab_notebooks/
-└── ecommerce_smart_seller_assistant.ipynb # Veri analizi defteri
+    └── ecommerce_smart_seller_assistant.ipynb  # Veri analizi defteri
+
 
 ## Veri Seti
 Projedeki örnek veriler Amazon Fine Food Reviews veri setinden türetilmiştir. Gerçek uygulamada daha büyük ve özel veri setleriyle uyumlu şekilde çalışabilir.
