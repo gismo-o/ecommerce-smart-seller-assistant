@@ -42,7 +42,7 @@ Satıcılar bu sayede ürün açıklamalarını güncelleyebilir, paketleme soru
 ---
 
 ## Veri Seti
-Projedeki örnek veriler Amazon Fine Food Reviews veri setinden türetilmiştir. Gerçek uygulamada daha büyük ve özel veri setleriyle uyumlu şekilde çalışabilir.
+Projede kullanılan örnek veriler, [Amazon Fine Food Reviews Dataset](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews) üzerinden türetilmiştir.
 
 ---
 
