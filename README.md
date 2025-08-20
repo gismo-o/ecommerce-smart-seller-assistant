@@ -65,6 +65,17 @@ ecommerce_smart_seller_assistant
 └── colab_notebooks/
     └── ecommerce_smart_seller_assistant.ipynb  # Veri analizi defteri
 
+```
+---
 
-NOT : Bu proje, BTK Hackathon 2025 kapsamında geliştirilmiştir.
+## 📸 Ekran Görüntüleri
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bf9c38c2-7bbb-4808-990f-59ec78737699" width="30%" alt="Overview">
+  <img src="https://github.com/user-attachments/assets/42213792-d231-4d97-a6f1-8320a769e1b7" width="30%" alt="Reviews">
+  <img src="https://github.com/user-attachments/assets/1088d78a-d089-4992-83a1-6796bcaa82a4" width="30%" alt="Insights">
+</p>
+
+---
+
+> 📝 **Not:** Bu proje, **BTK Hackathon 2025** kapsamında geliştirilmiştir.
